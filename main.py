@@ -3,6 +3,7 @@ import cv2
 from ultralytics import YOLO
 import numpy as np
 import time
+import pyglet
 
 model = YOLO(r"Model\best.pt")
 COLOR = (0,0,255)
@@ -28,9 +29,10 @@ while True:
     cv2.imshow('image', img)
     #send warning
     end_time = time.time()
-    if check and (end_time - start_time) >= 60 :
+    if check and (end_time - start_time) >= 30 :
         start_time = time.time()
         cv2.imwrite('warning.png', img)
+        # Play file sound
         send_warning(img_path= 'warning.png')
         send_message()
     if cv2.waitKey(1) == ord('q'):
