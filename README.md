@@ -127,10 +127,11 @@ The distribution of the dataset for Training, Validation, and Testing tasks is i
 <details>
   <summary>Demo Videos</summary>
 
-![Yolov10mVideoInference](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif)
+https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif
 
 </details>
 
+![Yolov10mVideoInference](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif)
 
 # Reference:
 - https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels
