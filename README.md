@@ -133,5 +133,9 @@ https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.
 
 ![Yolov10mVideoInference](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif)
 
+![Image Demo](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/test_image_1.jpg)
+
+![Image Demo](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/test_image_2.jpg)
+
 # Reference:
 - https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels
