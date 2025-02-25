@@ -1,8 +1,9 @@
 # FireEye Smart System
-- Hệ thống hỗ trợ nhận diện đám cháy thông qua camera
-- Cảnh báo bằng âm thanh và tin nhắn tới các thiết bị kết nối
+- The system supports fire detection through cameras.
+- Alerts are sent via sound and messages to connected devices.
 
-## Dataset
+## Dataset 
+[DATASET REPO](https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels)
 
 $\color{red}{\textsf{Dataset Composition:}}$
   
@@ -117,10 +118,10 @@ The distribution of the dataset for Training, Validation, and Testing tasks is i
 
 
 ## Model
-- Huấn luyện mô hình YOLO (v8s, v10m)
-  - yolov8s ưu tiên tốc độ nhận diện của các thiết bị camera sử dụng CPU
-  - yolov10m ưu tiên độ chính xác khi nhận diện lửa và khói
-- Quá trình huấn luyện được theo dõi trên W&B
+- Training the YOLO model (v8s, v10m):
+  - YOLOv8s prioritizes detection speed for camera devices using CPUs.
+  - YOLOv10m prioritizes accuracy in detecting fire and smoke.
+- The training process is monitored on W&B.
   - https://api.wandb.ai/links/giahoang481-h-c-vi-n-c-ng-ngh-b-u-ch-nh-vi-n-th-ng/jhq0xx2j
 
 <details>
