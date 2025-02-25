@@ -122,15 +122,15 @@ The distribution of the dataset for Training, Validation, and Testing tasks is i
   - yolov8s ưu tiên tốc độ nhận diện của các thiết bị camera sử dụng CPU
   - yolov10m ưu tiên độ chính xác khi nhận diện lửa và khói
 - Quá trình huấn luyện được theo dõi trên W&B
+  - https://api.wandb.ai/links/giahoang481-h-c-vi-n-c-ng-ngh-b-u-ch-nh-vi-n-th-ng/jhq0xx2j
 
 <details>
   <summary>Demo Videos</summary>
 
-https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif
+![Yolov10mVideoInference](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif)
 
 </details>
 
-![Yolov10mVideoInference](https://github.com/HoangLayor/FireEye-Smart-System/blob/main/results/v2.0/video.gif)
 
 # Reference:
 - https://github.com/CostiCatargiu/NEWFireSmokeDataset_YoloModels
