@@ -3,7 +3,6 @@
 - Cảnh báo bằng âm thanh và tin nhắn tới các thiết bị kết nối
 
 ## Dataset
-## Dataset
 
 $\color{red}{\textsf{Dataset Composition:}}$
   
